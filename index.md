@@ -56,7 +56,7 @@ Device starts working from switching on via a switch situated on the top side. A
 
 ## Battery power
 
-The device uses the low voltage CR2032 battery (3V) as a power source. There are two parallel battery brackets in the device for a long using cycle. Changing discharged batteries is done by unscrewing the lids on backside (see the picture 5) with help of the coin for example.
+The device uses the low voltage CR2032 battery (3V) as a power source. There are two parallel battery brackets in the device for a long using cycle. Changing discharged batteries is done by unscrewing the lids on backside (see the picture 7) with help of the coin for example.
 
 ![Battery lids](/img/4.png)
 <p align="center">Picture 7 - Battery lids</p>
