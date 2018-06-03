@@ -23,7 +23,7 @@ There are two shift registers on a PCB which control the 16 LEDs. A main control
 
 ## Case parts
 
-![MT.Strobic ABS version](/img/5.jpg)
+![MT.Strobic ABS version](/img/5.png)
 <p align="center">Picture 2 - ABS version of the MT.Strobic (frontal side)</p>
 
 ![MT.Strobic ABS version](/img/6.jpg)
