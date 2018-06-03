@@ -11,7 +11,7 @@ It’s not the easiest guide how to build this device, but I think, every high s
 
 The device has measurements 76 * 61 * 22 mm.
 
-You’ll find 3D models, PCB board, list of components in the [repository](/release/).
+You’ll find 3D models, PCB board, list of components in the [repository](/release).
 
 ## How it works?
 
