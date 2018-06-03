@@ -26,7 +26,7 @@ There are two shift registers on a PCB which control the 16 LEDs. A main control
 ![MT.Strobic ABS version](/img/5.png)
 <p align="center">Picture 2 - ABS version of the MT.Strobic (frontal side)</p>
 
-![MT.Strobic ABS version](/img/6.jpg)
+![MT.Strobic ABS version](/img/6.png)
 <p align="center">Picture 3 - ABS version of the MT.Strobic (back side)</p>
 
 In the repository you can find 3D models of case parts. All in STL format. It can be manufactured by any 3D printer use both ABS or PLA polymers. The ABS version presented on pictures 2 and 3.
