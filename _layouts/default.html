@@ -21,7 +21,7 @@
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
         <section id="downloads" class="clearfix">
-		<a href="{{ https://github.com/mangust01/MT.Strobic/tree/master/release }}" id="download-zip" class="button"><span>Download .zip</span></a>
+		<a href="{{ site.github.release/Project.zip }}" id="download-zip" class="button"><span>Download .zip</span></a>
 	{% if site.github.public %}
 	  {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
