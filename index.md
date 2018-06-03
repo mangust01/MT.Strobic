@@ -45,7 +45,7 @@ The source code is in the archive too and a precompiled hex-file there. So, you 
 ![PCB v2.0](/img/PCB.png)
 <p align="center">Picture 5 - PCB v2.0</p>
 
-The PCB designed in the Autodesk EAGLE Software for students (see the picture 5). An information about connections you’ll find in the EAGLE project. PCB is two layers board. It can be etched using Laser Printer at your home. Don’t forget to mirror a TOP layer before printing a template on photo paper.
+The PCB designed in the Autodesk EAGLE Software for students (see the picture 5). An information about connections you’ll find in the EAGLE project. PCB is two layers board. It can be etched using Laser Printer at your home. Don’t forget to mirror a TOP layer before printing a template onto photo paper.
 
 ## Controlling
 
