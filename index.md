@@ -38,8 +38,8 @@ For smoother case surface, you should use an epoxy coating (for example, XTC-3D)
 The source code is in the archive too and a precompiled hex-file there. So, you need any programmer for AVR8 MCUs to flash the hex-file in ATmega8A via SPI interface. There is a possibility to change the pictures (see the picture 4) via change matrixes in the source code. I use a chain of the CodeBlocks and the WinAVR for develop the source code and compilate it.
 
 <p align="center">
-  <img src="https://github.com/mangust01/MT.Strobic/blob/master/img/7.jpg" width="400" />
-  <img src="https://github.com/mangust01/MT.Strobic/blob/master/img/8.jpg" width="400" /> 
+  <img src="https://github.com/mangust01/MT.Strobic/blob/master/img/7.jpg" width="200" />
+  <img src="https://github.com/mangust01/MT.Strobic/blob/master/img/8.jpg" width="200" /> 
 </p>
 <p align="center">Picture 4 - Pictures are displayed when the device is shaken</p>
 
