@@ -11,7 +11,7 @@ It’s not the easiest guide how to build this device, but I think, every high s
 
 The device has measurements 76 * 61 * 22 mm.
 
-You’ll find 3D models, PCB board, list of components in the [repository](https://github.com/mangust01/MT.Strobic/tree/master/release).
+You’ll find 3D models, PCB board, .hex and source code in the [repository](https://github.com/mangust01/MT.Strobic/tree/master/release).
 
 ## How it works?
 
@@ -46,6 +46,24 @@ The source code is in the archive too and a precompiled hex-file there. So, you 
 <p align="center">Picture 5 - PCB v2.0</p>
 
 The PCB designed in the Autodesk EAGLE Software for students (see the picture 5). An information about connections you’ll find in the EAGLE project. PCB is two layers board. It can be etched using Laser Printer at your home. Don’t forget to mirror a TOP layer before printing a template onto photo paper.
+
+Table 1 - List of components
+
+| №  |    Component                                            |    Qty.    |    Designation             |
+|----|---------------------------------------------------------|------------|----------------------------|
+| 1  |    Double-sided PCB   (FR4-2 56 * 48 mm)                |    1       |                            |
+| 2  |    ATMEGA8A-AU                                          |    1       |    IC1                     |
+| 3  |    74HC595D                                             |    2       |    U1, U2                  |
+| 4  |    LED   3528                                           |    16      |    LED1-LED16              |
+| 5  |    CR2032 3V Coin Cell Battery Holder                   |    2       |    BT1,   BT2              |
+| 6  |    MSK-12C02 SMD Switch                                 |    2       |    S1, S2                  |
+| 7  |    HC49S crystal 8 MHz                                  |    1       |    Y1                      |
+| 8  |    SMD 0603   12..22 pF ceramic capacitor               |    2       |    C1, C2                  |
+| 9  |    SMD 0603   100 nF ceramic   capacitor                |    4       |    C5, C6,   C7, C8, C9    |
+| 10 |    SMD 0402   100 nF ceramic   capacitor                |    2       |    C3, C4                  |
+| 11 |    SMD   0603 4.7 k resistor                            |    2       |    R1, R2                  |
+| 12 |    Pinhead   2.54 mm 2 * 3 pins                         |    1       |    JP2                     |
+| 13 |    SW-520D vibration sensor (metal ball tilt switch)    |    1       |    JP1                     |
 
 ## Controlling
 
