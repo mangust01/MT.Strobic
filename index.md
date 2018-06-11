@@ -65,6 +65,7 @@ Table 1 - List of components
  12 |    Pinhead   2.54 mm 2 * 3 pins                         |    1       |    JP2                     
  13 |    SW-520D vibration sensor (metal ball tilt switch)    |    1       |    JP1                     
 
+
 ## Controlling
 
 Device starts working from switching on via a switch situated on the top side. A ‘NEXT’ button (right arrow) changes the displayed pictures. A ‘RESET’ button (curved arrow) returns to the first picture.
