@@ -35,7 +35,10 @@ For smoother case surface, you should use an epoxy coating (for example, XTC-3D)
 
 ## Code
 
-The source code is in the archive too and a precompiled hex-file there. So, you need any programmer for AVR8 MCUs to flash the hex-file in ATmega8A via SPI interface. There is a possibility to change the pictures (see the picture 4) via change matrixes in the source code. I use a chain of the CodeBlocks and the WinAVR for develop the source code and compilate it.
+The source code is in the archive and a precompiled hex-file there too. So, you need any programmer for AVR8 MCUs to flash the hex-file in ATmega8A via SPI interface. There is a possibility to change the pictures (see the picture 4) via change matrixes in the source code. I use a chain of the CodeBlocks and the WinAVR for develop the source code and compilate it.
+If you use new ATmega8A, you'll need to set the fuse bits. In the avrdude use following (with external 8MHz crystal):
+
+    -U lfuse:w:0xfc:m -U hfuse:w:0xd9:m
 
 ![Pictures](/img/7.png)
 <p align="center">Picture 4 - Pictures are displayed when the device is shaken</p>
@@ -64,7 +67,6 @@ Table 1 - List of components
  11 |    SMD   0603 4.7 k resistor                            |    2       |    R1, R2                  
  12 |    Pinhead   2.54 mm 2 * 3 pins                         |    1       |    JP2                     
  13 |    SW-520D vibration sensor (metal ball tilt switch)    |    1       |    JP1                     
-
 
 ## Controlling
 
